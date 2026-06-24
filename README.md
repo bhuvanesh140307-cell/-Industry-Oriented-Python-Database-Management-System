@@ -1,4 +1,4 @@
-# -Industry-Oriented-Python-Database-Management-System# Industry-Oriented Python Database Management System
+# Industry-Oriented Python Database Management System
 
 ## Problem Statement
 
